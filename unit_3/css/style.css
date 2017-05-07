@@ -1,0 +1,25 @@
+body{
+	background: (184,198,0);
+	text-align: center;
+	}
+
+a{
+	text-align: center;
+	color: (255,0,0);
+	font-family: "Courier New", monospace;
+	text-decoration: none;
+}
+h1{
+
+	background-color: (80,92,102);
+	color:(80,92,102);
+	font-family: "Courier New", monospace;
+	font-size: 36px;
+	font-weight: bold; 
+}
+
+p{
+	color:(184,198,219);
+	font-family: "Courier New", monospace;
+	text-align: center;
+} 
