@@ -1,25 +1,40 @@
 body{
-	background: (184,198,0);
+	background: #AAAEB8;
 	text-align: center;
 	}
 
-a{
-	text-align: center;
-	color: (255,0,0);
-	font-family: "Courier New", monospace;
-	text-decoration: none;
+
+nav a{
+	color: inherit;
+	font-family: "Courier New", bold, monospace;
+	text-decoration: bold;
+	padding: 75px;
+
 }
 h1{
 
-	background-color: (80,92,102);
-	color:(80,92,102);
+
+	color: #000;
 	font-family: "Courier New", monospace;
 	font-size: 36px;
 	font-weight: bold; 
 }
 
 p{
-	color:(184,198,219);
+	color: #363B40;
 	font-family: "Courier New", monospace;
 	text-align: center;
 } 
+footer{
+	font-size: 8px
+	text-align: center;
+	font-family: "Courier New", monospace;
+	color: #D8E4FC;
+}
+img{
+	width: 100%;
+
+}
+main{
+	padding: 50px
+}
