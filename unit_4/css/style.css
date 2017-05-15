@@ -1,0 +1,50 @@
+
+@import url("https://fonts.googleapis.com/css?family=Gruppo");
+
+
+body{
+	background: #AAAEB8;
+	text-align: center;
+	}
+
+
+nav a{
+	color: inherit;
+	font-family: 'Gruppo', bold, monospace;
+	text-decoration: bold;
+	padding: 75px;
+	font-size: 28px;
+	line-height: 1.5em;
+	margin: 4em;
+
+}
+h1{
+	color: #000;
+	font-family: 'Gruppo', monospace;
+	font-size: 45px;
+	font-weight: bold; 
+	margin: 1.5em;
+	line-height: .5em;
+}
+
+p{
+	color: #363B40;
+	font-family: 'Gruppo', monospace;
+	text-align: center;
+	font-size: 16px; 
+	line-height: 1.5em;
+	margin: 3em;
+} 
+footer{
+	font-size: 8px
+	text-align: center;
+	font-family: "Courier New", monospace;
+	color: #D8E4FC;
+}
+img{
+	width: 100%;
+
+}
+main{
+	padding: 2em;
+}
