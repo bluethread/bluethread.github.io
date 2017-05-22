@@ -1,10 +1,6 @@
 
 @import url("https://fonts.googleapis.com/css?family=Gruppo");
-header{
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
+
 
 body{
 	background: #AAAEB8;
@@ -13,7 +9,6 @@ body{
 
 
 nav a{
-	background-color: #E8C66A;
 	color: inherit;
 	font-family: 'Gruppo', bold, monospace;
 	text-decoration: bold;
@@ -49,15 +44,6 @@ footer{
 img{
 	width: 100%;
 
-}
-aside{
-	background-color: #FFC675;
-}
-article{
-	background-color: #E89C6C;
-}
-div{
-	background-color: #FFE2B8;
 }
 main{
 	padding: 2em;
