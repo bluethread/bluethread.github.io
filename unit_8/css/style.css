@@ -20,8 +20,8 @@ nav a{
 	font-family: 'Gruppo', bold, monospace;
 	text-decoration: bold;
 	font-size: 1.7em;
-	line-height: 1.5em;
-	padding: 3.5em 0;
+	line-height: 1em;
+	padding: 2em 0;
 	float: left;
 	transition: all .2s; 
 	width: 25%;
@@ -49,7 +49,7 @@ h1{
 	font-size: 2.8em;
 	font-weight: bold; 
 	margin: 1.5em;
-	line-height: 13em;
+	line-height: 2em;
 
 }
 p{
@@ -80,60 +80,8 @@ div #wrapper{
 	padding: none;
 	margin: 0 0;
 }
-#two_column {
-	background-color: #D1CECD;
-	padding: .2em;
-	width: 90%;
-	margin: 0 auto;
-}
-#left {
-	background-color: #D1CECD;
-	padding: .1em; 
-	width: 48%;
-	float: left;
-}
-#right {
-	background-color: #D1CECD;
-	padding: .1em;
-	width: 48%;
-	float: right;
-	font-size: 1em;
-}
-.clearfix:after {
-	visibility: hidden;
-	display; block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-} 
-#second_column {
-	background-color: #D1CECD;
-	padding: .2em;
-	width: 90%;
-	margin: 0 auto;
-}
-#image_right {
-	background-color: #D1CECD;
-	padding: .1em; 
-	float: right;
-	width: 48%;
-}
-#text_left{
-	background-color: #D1CECD;
-	padding: .1em;
-	float: left;
-	width: 48%;
-	font-size: 1em;
-}
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
+
+
 
 div{
 	background-color: #D1CECD;

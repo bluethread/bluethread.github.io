@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Gruppo");
+
+h1{
+	color: #FFFFFF;
+	font-family: 'Gruppo', monospace;
+	font-size: 2.8em;
+	font-weight: bold; 
+	margin: 1.5em;
+	line-height: 2em;
+	text-align: center;
+
+}
+#second_column {
+	background-color: #D1CECD;
+	padding: .2em;
+	width: 100%;
+	margin: 0 auto;
+}
+#image_right {
+	background-color: #D1CECD;
+	padding: .1em; 
+	float: center;
+	width: 80%;
+}
+
+#text_right{
+	background-color: #D1CECD;
+	padding: .1em;
+	float: center;
+	width: 80%;
+	font-size: 1em;
+	text-align: center;
+	margin: 1em;
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
